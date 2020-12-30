@@ -1,0 +1,5 @@
+{
+  "product": [
+    { "id": 1, "title": "One Title", "author": "typicode" },
+    { "id": 2, "title": "Two Title", "author": "typicode" }  ]
+}
